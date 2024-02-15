@@ -1,0 +1,4 @@
+D:\elettra\Desktop\file vari\scuola\superiori\informatica\4\visual studio\tegon.elettra.4i.rubricaWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\elettra\Desktop\file vari\scuola\superiori\informatica\4\visual studio\tegon.elettra.4i.rubricaWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\elettra\Desktop\file vari\scuola\superiori\informatica\4\visual studio\tegon.elettra.4i.rubricaWPF\obj\Debug\net6.0-windows\tegon.elettra.4i.rubricaWPF_MarkupCompile.cache
+D:\elettra\Desktop\file vari\scuola\superiori\informatica\4\visual studio\tegon.elettra.4i.rubricaWPF\obj\Debug\net6.0-windows\tegon.elettra.4i.rubricaWPF_MarkupCompile.lref
